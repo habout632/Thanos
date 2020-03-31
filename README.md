@@ -1,5 +1,5 @@
 # Thanos
-a learning-oriented deep learning framework
+a learning-oriented deep learning framework. A finger snap, half of the deep learning frameworks disappears!!
 Recently, many deep learning framework have been open sourced, it is neccesary to learn how to implement the core features from scratch.
 
 Preresuiste:
