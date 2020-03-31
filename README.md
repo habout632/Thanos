@@ -20,7 +20,9 @@ X-Deep Learning: Alibaba
 ### Tensor
 
 ### AutoGrad
-Computational Graph: Static vs Dynamic
+Computational Graph: 
+Static vs Dynamic
+Development vs Research
 
 ### GPU Cuda Programming
 Parrallel Programming
