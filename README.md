@@ -7,9 +7,13 @@ Tensorflow:Google
 Caffe
 MxNet: Amazon
 
+PaddlePaddle:Baidu
 MindSpore:Huawei
-Jinter:TsingHua
+Jitter:TsingHua
 MegaEngine:Face++
+NCNN:Tencent
+X-Deep Learning: Alibaba
+
 
 
 ## Deep Learning Framework Neccesary Features
@@ -23,7 +27,9 @@ Parrallel Programming
 
 ### C++ python mixing programming
 
-#### Distributed Computing
+### Mobile First
+
+### Distributed Computing
 Multiple GPUs & Multiple Machines
 
 test4
