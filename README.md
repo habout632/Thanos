@@ -21,12 +21,13 @@ Alt-H1
 
 
 
-## Deep Learning Framework Core Features
+##  Core Features
 ### Tensor
 
 ### AutoGrad
 Computational Graph: 
 Static vs Dynamic
+Eager Mode vs Graph Mode
 Development vs Research
 
 ### GPU Cuda Programming
@@ -37,6 +38,7 @@ C++ Extension
 
 ### Mobile First
 
+## Advanced Features
 ### Distributed Computing
 Multiple GPUs & Multiple Machines
 
