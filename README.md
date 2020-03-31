@@ -34,7 +34,11 @@ Development vs Research
 Parrallel Programming
 
 ### C++ python mixing programming
-C++ Extension
+
+### Neural Network Basical Modules
+CNN
+Transformer
+
 
 ### Mobile First
 
@@ -42,4 +46,4 @@ C++ Extension
 ### Distributed Computing
 Multiple GPUs & Multiple Machines
 
-test4
+### C++ Extension
