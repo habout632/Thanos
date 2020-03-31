@@ -2,17 +2,17 @@
 a learning-oriented deep learning framework
 
 ## Deep Learning Frameworks By Now
-PyTorch:Facebook
-Tensorflow:Google
-Caffe
-MxNet: Amazon
+* PyTorch:Facebook
+* Tensorflow:Google
+* Caffe
+* MxNet: Amazon
 
-PaddlePaddle:Baidu
-MindSpore:Huawei
-Jitter:TsingHua
-MegaEngine:Face++
-NCNN:Tencent
-X-Deep Learning: Alibaba
+* PaddlePaddle:Baidu
+* MindSpore:Huawei
+* Jitter:TsingHua
+* MegaEngine:Face++
+* NCNN:Tencent
+* X-Deep Learning: Alibaba
 
 
 
