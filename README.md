@@ -16,7 +16,7 @@ X-Deep Learning: Alibaba
 
 
 
-## Deep Learning Framework Neccesary Features
+## Deep Learning Framework Core Features
 ### Tensor
 
 ### AutoGrad
@@ -26,6 +26,7 @@ Computational Graph: Static vs Dynamic
 Parrallel Programming
 
 ### C++ python mixing programming
+C++ Extension
 
 ### Mobile First
 
